@@ -6,6 +6,7 @@ nav_order: 1
 ---
 
 # Installation Guide
+
 To install this project, run the following commands in the PROS integrated terminal:
 
 ```bash
@@ -19,3 +20,7 @@ __Note__: This project is built on Microsoft's Visual Studio Code and Purdue ACM
 > Install Visual Studio Code [here](https://code.visualstudio.com/){:target="_blank" :rel="noopener noreferrer"}
 
 > If you don't have pros installed, get it through the vs code extension store. [PROS installation Instructions](https://pros.cs.purdue.edu/v5/getting-started/){:target="_blank" :rel="noopener noreferrer"}
+
+## Next step
+
+[Create your first program]({{ site.baseurl }}/getting-started/quick-start.html)
