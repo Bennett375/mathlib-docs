@@ -13,4 +13,3 @@ These pages cover the build and packaging model, the public header layout, perfo
 - [Public API layout]({{ site.baseurl }}/development/public-api-layout.html)
 - [Build and integration]({{ site.baseurl }}/development/build-and-integration.html)
 - [Performance and thread safety]({{ site.baseurl }}/development/performance.html)
-- [Limitations]({{ site.baseurl }}/development/limitations.html)
