@@ -13,7 +13,7 @@ To install this project, run the following commands in the PROS integrated termi
 # Registers the depot (Only necessary once per machine)
 pros c add-depot Mathlib https://bennett375.github.io/mathlib-depot/MathLib-depot.json
 # Applies the depot to your local project
-pros c apply mathlib@1.0.0
+pros c apply mathlib@2.0.0
 ```
 
 __Note__: This project is built on Microsoft's Visual Studio Code and Purdue ACM Sigbot's PROS
